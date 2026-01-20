@@ -35,8 +35,7 @@ else if (options === "2") {
     }
      
 }
-
-else if (option === "3") {
+else if (options === "3") {
         alert("Thank you for using our ATM. Goodbye 👋");
     }
 
